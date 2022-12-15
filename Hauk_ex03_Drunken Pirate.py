@@ -1,7 +1,7 @@
 ##########################################
 # CS 1110A - Programming in Python       #
 # Module 3 - Exercise 3 - Drunken Pirate #
-# Author: Spyder                         #
+# Author: Toni_Hauk                      #
 # Date:   09/19/2022                     #
 ##########################################
 
